@@ -1,3 +1,5 @@
+src/main/java/ge/davab/leetcode/notsolved/*
+
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
